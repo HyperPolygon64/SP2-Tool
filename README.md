@@ -11,4 +11,4 @@
 
 # Project Goals
 ### SP2 Repacking
-- This tool does allow for repacking `GPU.SP2` files, however, the method used is incomplete and is simply based off the `copy /b` command, which can produce undesirable results and may not work correctly with Team Sonic Racing.
+- This tool does allow for repacking `GPU.SP2` files, however, the method used is incomplete and is simply based off the `copy /b` command, which can produce undesirable results and may not work correctly with Team Sonic Racing. The offsets for where DirectDraw Surface textures and DirectX Shader Bytecode sections are may be hard coded.
